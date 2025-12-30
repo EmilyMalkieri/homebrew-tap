@@ -1,6 +1,6 @@
 cask "scrivener-compile-to-ao3" do
-  version "1.2.1"
-  sha256 "e242c4acd3fccf05f5ceeb53d2b5b575a9b45ce261eb06f8a0ce73c83b9add46"
+  version "1.3.0"
+  sha256 "9fed515753b84df5ab30a63a6f2ba09c42abacba49ab51cf1145456a28ca1e6c"
 
   url "https://github.com/EmilyMalkieri/scrivener-compile-to-ao3/archive/refs/tags/v#{version}.tar.gz"
   name "Scrivener Compile Format for AO3"
